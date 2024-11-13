@@ -49,4 +49,4 @@ Rope Texture: https://3dtextures.me/2020/12/30/rope-001/
 
 Little Mac Model: https://sketchfab.com/3d-models/little-mac-smash-bros-brawl-92b53141c61740afb8d94f6fd54adf7e#download
 
-
+Mike Tyson Model: https://sketchfab.com/3d-models/mike-tyson-boxer-732af8bf459a4f76913c7f57cc82088a#download
