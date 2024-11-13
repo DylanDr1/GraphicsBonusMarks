@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: New Material 1
   m_Shader: {fileID: 4800000, guid: 021b32db478409142a2fb4a2c1a23117, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -76,12 +76,12 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Step1: 0.57
-    - _Step2: 0.8
-    - _Step3: 0.75
+    - _Step1: 0.25
+    - _Step2: 0.41
+    - _Step3: 0.74
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8429867, g: 0.9622642, b: 0.5855287, a: 1}
+    - _Color: {r: 0.8396226, g: 0.2891153, b: 0.2891153, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
